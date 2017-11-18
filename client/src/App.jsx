@@ -11,7 +11,6 @@ export default class App extends Component {
     return (
       <MuiThemeProvider>
         <div>
-
           <Bank />
         </div>
       </MuiThemeProvider>

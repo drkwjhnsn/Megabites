@@ -7,4 +7,5 @@ if (!touchsupport){ // browser doesn't support touch
     document.documentElement.className += " non-touch"
 }
 
+
 render(<App/>, document.getElementById('root'));
